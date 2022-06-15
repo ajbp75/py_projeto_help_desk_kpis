@@ -31,11 +31,14 @@ Para o desenvolvimento deste projeto foram propostos os seguintes passos:
 ## Modelo de Dados
 
 Utilizando a biblioteca [Faker]() do python vamos gerar alguns conjuntos de dados (tabelas), a serem utilizados na nossa análise, sendo eles:
-. Funcionários: Registro dos funcionários com id, status, cargo e outros.
-. Departamentos: Subseções da empresa
-. Diretórias: Seções principais na empresa
-. Chamados: Registro histórico dos chamados abertos no Help Desk a partir de 2020
-. Problemas: Tipos de problemas a serem relacionados ao chamados
+
+- Funcionários: Registro dos funcionários com id, status, cargo e outros.
+- Departamentos: Subseções da empresa
+- Diretórias: Seções principais na empresa
+- Chamados: Registro histórico dos chamados abertos no Help Desk a partir de 2020
+- Problemas: Tipos de problemas a serem relacionados ao chamados
+
+**MER**
 
 
 ![](./docs/images/MER_tabelas.svg)
