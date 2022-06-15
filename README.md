@@ -27,3 +27,15 @@ Para o desenvolvimento deste projeto foram propostos os seguintes passos:
 03. Exploração das distribuições e validação se a base é fáctivel com mundo real e praticável.
 04. Sugestão e desenvolvimento dos indicadores
 05. Aplicação e validação dos indicadores
+
+## Modelo de Dados
+
+Utilizando a biblioteca [Faker]() do python vamos gerar alguns conjuntos de dados (tabelas), a serem utilizados na nossa análise, sendo eles:
+. Funcionários: Registro dos funcionários com id, status, cargo e outros.
+. Departamentos: Subseções da empresa
+. Diretórias: Seções principais na empresa
+. Chamados: Registro histórico dos chamados abertos no Help Desk a partir de 2020
+. Problemas: Tipos de problemas a serem relacionados ao chamados
+
+
+![](./docs/images/MER_tabelas.svg)
