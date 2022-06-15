@@ -8,7 +8,7 @@ Este projeto objetiva explorar e análisar e gerar indicadores para uma base de 
 
 A gestão de chamados, seus SLAS e métricas é muito importante para controle da qualidade operacional de uma empresa, visto que praticamente todos os projetos de uma empresa necessitam, em algum momento, do suporte da área de Infra / help desk, talvez para alguma aprovação de acesso, resolução de problema em algum equipamento físico(hardware) ou instalação/configuração de software. 
 
-## Objetivo Principal
+## Objetivos Específicos
 
 Desenvolver e implementar indicadores que possibilitem aos gestores o monitoramento do:
 - Tempo de atendimento
